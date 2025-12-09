@@ -11,7 +11,6 @@ The project includes a landing page for showcasing projects and client testimoni
 |--------|-----|
 | **Frontend (Vercel)** | https://realtrust-app-3v9g.vercel.app |
 | **Backend (Render)** | https://realtrust-app-veh2.onrender.com |
-| **API Base URL** | https://realtrust-app-veh2.onrender.com/api |
 
 ---
 
