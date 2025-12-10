@@ -18,16 +18,16 @@ const HeroSection = () => {
 
         <div className="hero-stats">
           <div className="hero-stat">
-            <span>250+</span>
-            Successful Projects
+            {/* <span>250+</span>
+            Successful Projects */}
           </div>
           <div className="hero-stat">
-            <span>98%</span>
-            Happy Clients
+            {/* <span>98%</span>
+            Happy Clients */}
           </div>
           <div className="hero-stat">
-            <span>10yrs</span>
-            Real Estate Expertise
+            {/* <span>10yrs</span>
+            Real Estate Expertise */}
           </div>
         </div>
       </div>
